@@ -251,9 +251,6 @@ Deployment follows a **bottom-up dependency order**: network foundation → data
 .
 ├── architecture-diagram.png     # Architecture diagram (referenced above)
 ├── README.md                    # This file
-├── terraform/ or cloudformation/# Infrastructure-as-Code (if applicable)
-├── scripts/                     # Bootstrap / user-data scripts
-└── docs/                        # Additional design documentation
 ```
 
 ---
@@ -266,7 +263,7 @@ Deployment follows a **bottom-up dependency order**: network foundation → data
 
 ## Author
 
-**Manara Cloud Computing Capstone Project**
+**Mohamed Jaa**
 Built as a demonstration of production-grade, highly available AWS architecture design principles.
 
 ## License
