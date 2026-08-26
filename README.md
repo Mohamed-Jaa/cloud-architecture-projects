@@ -264,8 +264,5 @@ Deployment follows a **bottom-up dependency order**: network foundation → data
 ## Author
 
 **Mohamed Jaa**
+
 Built as a demonstration of production-grade, highly available AWS architecture design principles.
-
-## License
-
-This project is licensed under the MIT License — see the `LICENSE` file for details.
