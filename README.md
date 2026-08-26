@@ -259,6 +259,9 @@ Deployment follows a **bottom-up dependency order**: network foundation → data
 `Amazon VPC` · `Route 53` · `CloudFront` · `AWS WAF` · `Amazon S3` · `Application Load Balancer` · `EC2 Auto Scaling` · `Amazon RDS (Multi-AZ)` · `AWS Systems Manager` · `Amazon CloudWatch` · `Amazon SNS` · `AWS KMS` · `AWS Secrets Manager` · `IAM`
 
 ---
+## Acknowledgments
+
+I would like to extend my sincere gratitude to my instructor, **Ayman Aly Mahmoud**, for his invaluable guidance, expertise, and continuous mentorship throughout the Manara Cloud Architecture program. His support and insights have been instrumental in the successful design and implementation of this  project.
 
 ## Author
 
