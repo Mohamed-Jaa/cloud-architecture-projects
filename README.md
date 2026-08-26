@@ -3,7 +3,6 @@
 
 [![AWS](https://img.shields.io/badge/AWS-Architecture-FF9900?logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Status](https://img.shields.io/badge/Status-Capstone%20Project-blue)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
 
 > **Manara Program — Cloud Computing  Project**
 
