@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-Capstone%20Project-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-green)]()
 
-> **Manara Program — Cloud Computing Capstone Project**
+> **Manara Program — Cloud Computing  Project**
 
 ---
 
